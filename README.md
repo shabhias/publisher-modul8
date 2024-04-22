@@ -26,3 +26,8 @@ program, what does it mean?
 - Screenshot berhasilnya menjalankan cargo run untuk mengirim 5 event memalui message brocker yang akan diproses oleh subscriber pada terminal publisher.
   <a href="https://ibb.co/7RBcLWj"><img src="https://i.ibb.co/yYKT7yd/Screenshot-2024-04-22-113538.png" alt="Screenshot-2024-04-22-113538" border="0"></a>
 
+# Monitoring chart based on publisher
+
+<a href="https://ibb.co/N28G8kY"><img src="https://i.ibb.co/XxhGhdJ/Screenshot-2024-04-22-114147.png" alt="Screenshot-2024-04-22-114147" border="0"></a>
+
+
