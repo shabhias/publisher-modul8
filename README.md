@@ -15,3 +15,14 @@ program, what does it mean?
 #  Running RabbitMQ as message broker
 
 <a href="https://ibb.co/rpJNmVp"><img src="https://i.ibb.co/NNzbsMN/Screenshot-2024-04-22-112451.png" alt="Screenshot-2024-04-22-112451" border="0"></a>
+
+
+#  Sending and processing event
+
+- Screenshot berhasilnya menerima 5 event message broker dari publisher pada terminal subscriber.
+  <a href="https://ibb.co/0FSSLKN"><img src="https://i.ibb.co/HxssyCv/Screenshot-2024-04-22-113448.png" alt="Screenshot-2024-04-22-113448" border="0"></a>
+
+
+- Screenshot berhasilnya menjalankan cargo run untuk mengirim 5 event memalui message brocker yang akan diproses oleh subscriber pada terminal publisher.
+  <a href="https://ibb.co/7RBcLWj"><img src="https://i.ibb.co/yYKT7yd/Screenshot-2024-04-22-113538.png" alt="Screenshot-2024-04-22-113538" border="0"></a>
+
