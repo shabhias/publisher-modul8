@@ -28,6 +28,6 @@ program, what does it mean?
 
 # Monitoring chart based on publisher
 
-<a href="https://ibb.co/N28G8kY"><img src="https://i.ibb.co/XxhGhdJ/Screenshot-2024-04-22-114147.png" alt="Screenshot-2024-04-22-114147" border="0"></a>
+<a href="https://ibb.co/XL7PKVJ"><img src="https://i.ibb.co/8srwfX8/Screenshot-2024-04-22-115512.png" alt="Screenshot-2024-04-22-115512" border="0"></a>
 
 
